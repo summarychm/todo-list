@@ -11,5 +11,6 @@ const App = () => {
         <div>测试内容</div>
     )
 }
+
 ReactDOM.render(
     <App/>, document.getElementById("root"))
